@@ -14,4 +14,4 @@ Right now, I am broadening my skills by taking part in the course "Introduction 
 ## Prior Experience 🧑🏼‍🎓
 Before becoming a Data Analyst, I worked in project management at a small bureau that provides a network for creative people and creates websites and tools for cultural projects and institutions. Besides my main tasks that involved coordinating projects, testing new websites or tools, doing customer support and communication in general, I delved into the backend and worked with the database (MySQL), edited simple parts of the code of a website (e.g. changing a colour or hiding a button by date), worked with versioning (netbeans) and with website statistics (matomo).
 
-I have a Master's degree in Art History and	Prehistoric and Historical Archaeology.
+I have a Master's degree in Art History and	Prehistoric & Historical Archaeology.
