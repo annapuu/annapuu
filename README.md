@@ -2,7 +2,7 @@
 
 I'm Anna Puck, a recently certified Data Analyst currently looking for her first role in this field. I'm a curious person with the desire to understand and a love of learning.
 
-Right now, I am broadening my skills by taking part in the course "Introduction to Data Science & Machine Learning by opencampus.sh, which is giving me basic understanding of Data Science, Machine Learning and AI as well as more practical experience in using R and Python.
+Right now, I am broadening my skills by taking part in the course "Introduction to Data Science & Machine Learning" by opencampus.sh, which is giving me basic understanding of Data Science, Machine Learning and AI as well as more practical experience in using R and Python.
 
 
 ## Skills 🧑🏼‍💻
